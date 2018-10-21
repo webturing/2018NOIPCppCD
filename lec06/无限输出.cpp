@@ -1,9 +1,7 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main()
-{
+int main() {
 
-	while(1)
-		cout<<"hello world"<<endl;
-	return 0;
+  while (1) cout << "hello world" << endl;
+  return 0;
 }

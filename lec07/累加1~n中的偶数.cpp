@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+	int n;
+	cin>>n;
+	int s=0;//累加器s清0 
+	int i=1;
+	while(i<=n) {
+		if(i%2==0) 
+			s=s+i;//累加i到s中 
+		i++;
+	}
+	cout<<s;//输出s的值 就是2+4...+n （1-n中的偶数） 
+	return 0;
+}

@@ -67,7 +67,7 @@
 - 返回 return 
 - 包含 include
 - 使用 using
-- 在**之前 before
+- 在。。之前 before
 - 期待expect
 
 ## 程序术语：
